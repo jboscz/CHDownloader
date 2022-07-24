@@ -1,0 +1,10 @@
+cache
+.cache
+project.json
+tests
+build
+dist
+IPCAM
+CHDownloader.spec
+__pycache__
+config.ini
